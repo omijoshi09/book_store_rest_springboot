@@ -13,7 +13,7 @@ This is a code for Book Store Assessment API, Integrated with H2 database
 
 ### Using Git (recommended)
 
-Clone the project from github.
+Clone the project from github [https://github.com/omijoshi09/book_store_rest_springboot.git]
 
 ### Check Database
 
